@@ -1,4 +1,4 @@
 game.StarterGui:SetCore("SendNotification", {
-        Title = "(Script executed!)",
-        Text = "(Thanks for using Xploit! You can disable this pop-up in the settings.)"
+        Title = "Script executed!",
+        Text = "Thanks for using Xploit! You can disable this pop-up in the settings."
 })
