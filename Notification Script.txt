@@ -1,4 +1,4 @@
 game.StarterGui:SetCore("SendNotification", {
-        Title = "Script execution has finished",
-        Text = "If your script doesn't work, it may be broken."
+        Title = "You've already injected!",
+        Text = "You already injected your exploit api."
 })
