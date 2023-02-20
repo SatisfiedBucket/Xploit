@@ -1,0 +1,4 @@
+game.StarterGui:SetCore("SendNotification", {
+    Title = "Execution",
+    Text = "Execution is working for this API."
+})
